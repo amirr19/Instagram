@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="3c3400a3-6724-4229-9b02-ead5f00142f1" name="Default Changelist" comment="post property complete">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
 =======
@@ -14,6 +15,11 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/ir/java/maktab32/instagram/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/java/maktab32/instagram/domain/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
 >>>>>>> a4a7bf6efd54206f1a5369a5b184e1d9ab8f9a73
+=======
+    <list default="true" id="3c3400a3-6724-4229-9b02-ead5f00142f1" name="Default Changelist" comment="post crud complete">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ir/java/maktab32/instagram/domain/UserAccount.java" beforeDir="false" />
+>>>>>>> b54004421bb878664789276b59d9ddf41aabb656
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +81,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="UPDATE_TYPE" value="MERGE" />
+=======
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+>>>>>>> b54004421bb878664789276b59d9ddf41aabb656
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -236,11 +250,15 @@
       <updated>1579170996008</updated>
 <<<<<<< HEAD
       <workItem from="1579170998258" duration="603000" />
+<<<<<<< HEAD
       <workItem from="1579172181825" duration="3346000" />
 =======
       <workItem from="1579170998258" duration="1619000" />
       <workItem from="1579173112480" duration="3571000" />
 >>>>>>> a4a7bf6efd54206f1a5369a5b184e1d9ab8f9a73
+=======
+      <workItem from="1579172181825" duration="4175000" />
+>>>>>>> b54004421bb878664789276b59d9ddf41aabb656
     </task>
     <task id="LOCAL-00001" summary="post">
       <created>1579173491377</created>
@@ -256,6 +274,7 @@
       <option name="project" value="LOCAL" />
       <updated>1579174236559</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00003" summary="PersistenceEntity added by omid.">
       <created>1579173409172</created>
       <option name="number" value="00003" />
@@ -278,6 +297,16 @@
       <updated>1579175880239</updated>
     </task>
     <option name="localTasksCounter" value="6" />
+=======
+    <task id="LOCAL-00003" summary="post crud complete">
+      <created>1579175552238</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579175552238</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+>>>>>>> b54004421bb878664789276b59d9ddf41aabb656
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -357,7 +386,8 @@
 <<<<<<< HEAD
     <MESSAGE value="post" />
     <MESSAGE value="post property complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="post property complete" />
+    <MESSAGE value="post crud complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="post crud complete" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/ir/java/maktab32/instagram/config/HibernateUtil.java">

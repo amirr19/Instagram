@@ -1,7 +1,7 @@
 package ir.java.maktab32.instagram.repositories;
 
 import ir.java.maktab32.instagram.config.hibernate.repositories.CrudRepo;
-import ir.java.maktab32.instagram.domain.Post;
+import ir.java.maktab32.instagram.domain.post.Post;
 
 public class PostRepo extends CrudRepo<Post,Long> {
     private static PostRepo post;

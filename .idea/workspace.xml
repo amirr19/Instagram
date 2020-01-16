@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c3400a3-6724-4229-9b02-ead5f00142f1" name="Default Changelist" comment="post property complete">
+    <list default="true" id="3c3400a3-6724-4229-9b02-ead5f00142f1" name="Default Changelist" comment="post crud complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ir/java/maktab32/instagram/domain/UserAccount.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -62,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579170996008</updated>
       <workItem from="1579170998258" duration="603000" />
-      <workItem from="1579172181825" duration="3346000" />
+      <workItem from="1579172181825" duration="4175000" />
     </task>
     <task id="LOCAL-00001" summary="post">
       <created>1579173491377</created>
@@ -78,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579174236559</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="post crud complete">
+      <created>1579175552238</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579175552238</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +111,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="post" />
     <MESSAGE value="post property complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="post property complete" />
+    <MESSAGE value="post crud complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="post crud complete" />
   </component>
   <component name="masterDetails">
     <states>

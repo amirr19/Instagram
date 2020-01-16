@@ -21,10 +21,8 @@ import java.util.List;
 public class User extends PersistenceEntity<Long> {
     private String userName;
     private String password;
-
     @ElementCollection
     private List<String> followings = new ArrayList<>();
     @ElementCollection
     private List<String> followers = new ArrayList<>();
-
 }

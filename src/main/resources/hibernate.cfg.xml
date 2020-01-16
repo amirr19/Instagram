@@ -8,7 +8,7 @@
         <property name="hibernate.connection.username">root</property>
         <property name="hibernate.connection.password">1374Amir1374</property>
         <property name="hibernate.connection.url">
-            jdbc:mysql://localhost/HibernateAndRepository?createDatabaseIfNotExist=true
+            jdbc:mysql://localhost/InstagramDB?createDatabaseIfNotExist=true
         </property>
         <property name="hibernate.hbm2ddl.auto">update</property>
     </session-factory>

@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="3c3400a3-6724-4229-9b02-ead5f00142f1" name="Default Changelist" comment="post property complete">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+=======
+    <list default="true" id="3c3400a3-6724-4229-9b02-ead5f00142f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ir.instagram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ir/java/maktab32/instagram/config/hibernate/repositories/UserCrud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ir/java/maktab32/instagram/feature/SignUpUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ir/java/maktab32/instagram/myApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ir/java/maktab32/instagram/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/java/maktab32/instagram/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+>>>>>>> a4a7bf6efd54206f1a5369a5b184e1d9ab8f9a73
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -176,6 +187,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ir.java.maktab32.instagram.config" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -188,6 +204,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="myApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.java.maktab32.instagram.myApplication" />
+      <module name="ir.instagram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.java.maktab32.instagram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.myApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -198,8 +234,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579170996008</updated>
+<<<<<<< HEAD
       <workItem from="1579170998258" duration="603000" />
       <workItem from="1579172181825" duration="3346000" />
+=======
+      <workItem from="1579170998258" duration="1619000" />
+      <workItem from="1579173112480" duration="3571000" />
+>>>>>>> a4a7bf6efd54206f1a5369a5b184e1d9ab8f9a73
     </task>
     <task id="LOCAL-00001" summary="post">
       <created>1579173491377</created>
@@ -215,7 +256,28 @@
       <option name="project" value="LOCAL" />
       <updated>1579174236559</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="PersistenceEntity added by omid.">
+      <created>1579173409172</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579173409172</updated>
+    </task>
+    <task id="LOCAL-00004" summary="User Class was created by omid2.">
+      <created>1579174768969</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579174768970</updated>
+    </task>
+    <task id="LOCAL-00005" summary="User Class was pushed by omid three times!">
+      <created>1579175880239</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579175880239</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -292,6 +354,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <MESSAGE value="post" />
     <MESSAGE value="post property complete" />
     <option name="LAST_COMMIT_MESSAGE" value="post property complete" />
@@ -307,6 +370,15 @@
         </state>
       </provider>
     </entry>
+=======
+    <MESSAGE value="start" />
+    <MESSAGE value="pom and cfg" />
+    <MESSAGE value="PersistenceEntity added by omid." />
+    <MESSAGE value="User Class was created by omid." />
+    <MESSAGE value="User Class was created by omid2." />
+    <MESSAGE value="User Class was pushed by omid three times!" />
+    <option name="LAST_COMMIT_MESSAGE" value="User Class was pushed by omid three times!" />
+>>>>>>> a4a7bf6efd54206f1a5369a5b184e1d9ab8f9a73
   </component>
   <component name="masterDetails">
     <states>

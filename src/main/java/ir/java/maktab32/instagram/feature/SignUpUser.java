@@ -19,6 +19,4 @@ public class SignUpUser {
         user.setPassword(password);
         new UserCrud().save(user);
     }
-
-
 }

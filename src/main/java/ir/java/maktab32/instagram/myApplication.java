@@ -7,6 +7,5 @@ public class myApplication {
     public static void main(String[] args) {
         HibernateUtil.getSession();
         new SignUpUser().signUp();
-
     }
 }
